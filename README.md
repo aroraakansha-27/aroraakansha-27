@@ -22,7 +22,7 @@
 
 ### 🏆 Volkswagen Group Tech Solutions Intern  
 **Key Contributions:**  
-✅ **Optimized RESTful APIs** with Java/Spring Boot (Improved throughput by X%)  
+✅ **Optimized RESTful APIs** with Java/Spring Boot  
 ✅ **Secured Microservices** using JWT authentication & role-based access  
 ✅ **Built Scalable Modules** integrated with React.js frontend  
 ✅ **Enhanced Collaboration** via Swagger API docs & Agile/Jira workflows  
@@ -49,4 +49,4 @@
 ### 🌟 Philosophy  
 > *"I thrive where problem-solving meets clean architecture – whether it’s backend services or seamless frontend integration, every line of code should serve a purpose."*  
 
-📫 **Let’s build something great:** 
+📫 **Let’s build something great** 
