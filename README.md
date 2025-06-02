@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Akansha Arora</h1>
-<h3 align="center">Ex-Software Engineer Intern @ Volkswagen Group Technology Solutions India | Java | Spring Boot | Microservices | Aspiring Full Stack Developer 🚀</h3>
+<h3 align="center">Java | Spring Boot | Microservices | Aspiring Full Stack Dev | Clean Code 🚀</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akansha-arora27/">
